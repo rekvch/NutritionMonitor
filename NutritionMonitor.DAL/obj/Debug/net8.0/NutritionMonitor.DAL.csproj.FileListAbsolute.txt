@@ -1,0 +1,17 @@
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\bin\Debug\net8.0\NutritionMonitor.DAL.deps.json
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\bin\Debug\net8.0\NutritionMonitor.DAL.runtimeconfig.json
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\bin\Debug\net8.0\NutritionMonitor.DAL.dll
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\bin\Debug\net8.0\NutritionMonitor.DAL.pdb
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\bin\Debug\net8.0\NutritionMonitor.Models.dll
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\bin\Debug\net8.0\NutritionMonitor.Models.pdb
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\NutritionMonitor.DAL.csproj.AssemblyReference.cache
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\NutritionMonitor.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\NutritionMonitor.DAL.AssemblyInfoInputs.cache
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\NutritionMonitor.DAL.AssemblyInfo.cs
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\NutritionMonitor.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\Nutritio.66D97B6D.Up2Date
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\NutritionMonitor.DAL.dll
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\refint\NutritionMonitor.DAL.dll
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\NutritionMonitor.DAL.pdb
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\NutritionMonitor.DAL.genruntimeconfig.cache
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net8.0\ref\NutritionMonitor.DAL.dll

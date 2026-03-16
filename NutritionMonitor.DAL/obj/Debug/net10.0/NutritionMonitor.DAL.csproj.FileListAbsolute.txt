@@ -1,0 +1,5 @@
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net10.0\NutritionMonitor.DAL.csproj.AssemblyReference.cache
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net10.0\NutritionMonitor.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net10.0\NutritionMonitor.DAL.AssemblyInfoInputs.cache
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net10.0\NutritionMonitor.DAL.AssemblyInfo.cs
+C:\Users\Justine Moral\source\repos\NutritionMonitor.DAL\obj\Debug\net10.0\NutritionMonitor.DAL.csproj.CoreCompileInputs.cache
