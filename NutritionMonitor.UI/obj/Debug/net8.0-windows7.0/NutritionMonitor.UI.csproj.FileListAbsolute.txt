@@ -1,0 +1,11 @@
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.csproj.AssemblyReference.cache
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.Forms.MainDashboardForm.resources
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.Forms.MealLogFormDialog.resources
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.Forms.MealLogListForm.resources
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.Forms.StudentFormDialog.resources
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.Forms.StudentListForm.resources
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.csproj.GenerateResource.cache
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.AssemblyInfoInputs.cache
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.AssemblyInfo.cs
+C:\Users\Justine Moral\source\repos\NutritionMonitor.UI\obj\Debug\net8.0-windows7.0\NutritionMonitor.UI.csproj.CoreCompileInputs.cache
